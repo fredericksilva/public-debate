@@ -1,0 +1,24 @@
+{
+    "name": "pensandoodireito/public-debate",
+    "type": "wordpress-plugin",
+    "description": "O Public Debate é um plugin WordPress que permite comentários em parágrafos de um texto, geralmente usado em debates e/ou consultas públicas.",
+    "keywords": ["plugin", "wordpress", "democracy", "collaboration", "debate"],
+    "homepage": "https://github.com/pensandoodireito/public_debate",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "Marco Antonio Konopacki",
+            "email": "marcoamarelo@gmail.com",
+            "role": "Developer"
+        },
+	{
+            "name": "Matheus Neves",
+            "email": "matheus.neves@gmail.com",
+            "role": "Developer"
+        }	
+    ],
+    "require": {
+        "composer/installers": "~1.0",
+        "wordpress": ">=3.8"
+    }
+}
